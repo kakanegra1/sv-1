@@ -34,3 +34,10 @@ expansions:
       medium: '&e'
       high: '&c'
       low: '&a'
+  vault:
+    formatting:
+      thousands: k
+      millions: M
+      billions: B
+      trillions: T
+      quadrillions: Q
