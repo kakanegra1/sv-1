@@ -169,3 +169,70 @@
 [11:22:58] [User Authenticator #0/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
 [11:22:58] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
 [11:22:58] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 299 at ([world]-81.47567, 75.0, 111.9691)
+[11:23:23] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:23:23] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:23:23] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:23:51] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:23:51] [localSession-7-4/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:23:51] [localSession-7-4/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Invalid state for Bedrock, please rejoin
+[11:23:51] [Server thread/INFO]: /127.0.0.1:0 lost connection: Disconnect
+[11:24:26] [Server thread/INFO]: The plugin has been reloaded successfully
+[11:26:48] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:26:48] [localSession-7-1/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:26:49] [User Authenticator #1/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[11:26:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[11:26:49] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 348 at ([world]-81.47567, 75.0, 111.9691)
+[11:27:22] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:27:22] [localSession-7-1/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:27:22] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:27:54] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:27:54] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:27:54] [User Authenticator #2/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[11:27:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[11:27:54] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 408 at ([world]-81.47567, 75.0, 111.9691)
+[11:28:11] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user .Spbstrome17 has successfully logged in.
+[11:28:23] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:28:23] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:28:23] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:28:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:28:51] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:28:51] [User Authenticator #2/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[11:28:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[11:28:51] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 472 at ([world]-81.47567, 75.0, 111.9691)
+[11:29:11] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user .Spbstrome17 has successfully logged in.
+[11:29:22] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:29:22] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:29:22] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:29:52] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:29:52] [localSession-7-4/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:29:52] [localSession-7-4/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Invalid state for Bedrock, please rejoin
+[11:29:52] [Server thread/INFO]: /127.0.0.1:0 lost connection: Disconnect
+[11:30:05] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[11:30:25] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:30:25] [localSession-7-1/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:30:25] [User Authenticator #3/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[11:30:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[11:30:25] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 546 at ([world]-81.47567, 75.0, 111.9691)
+[11:30:45] [localSession-7-1/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:30:45] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:30:45] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:31:07] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:31:07] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:31:07] [User Authenticator #3/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[11:31:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[11:31:07] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 596 at ([world]-81.47567, 75.0, 111.9691)
+[11:31:21] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:31:21] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:31:21] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:32:20] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:32:20] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:32:20] [User Authenticator #4/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[11:32:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[11:32:20] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 633 at ([world]-81.47567, 75.0, 111.9691)
+[11:32:46] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[11:32:46] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client timed out
+[11:32:46] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[11:33:04] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[11:33:04] [localSession-7-4/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[11:33:04] [localSession-7-4/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Invalid state for Bedrock, please rejoin
+[11:33:04] [Server thread/INFO]: /127.0.0.1:0 lost connection: Disconnect
