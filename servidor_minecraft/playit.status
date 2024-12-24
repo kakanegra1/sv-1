@@ -1,251 +1,783 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735009609460 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735011062258 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oaaAAAAAAQAAAAEAAAAAAAAAALX8rP9aVzJiL1_0RIZXeKVJx0t7dYB9QaFoBn5U_v4H
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009612635 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oaaAAAAAAQAAAAEAAAAAAAAAALX8rP9aVzJiL1_0RIZXeKVJx0t7dYB9QaFoBn5U_v4H
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2t9IBAAAAAQAAAAEAAAAAAAAAACoyvu03oJEukceHTu7LUeI4ZVXoVTBcgWpMvgEguuR6
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009615770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011065463 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oaaAAAAAAQAAAAEAAAAAAAAAALX8rP9aVzJiL1_0RIZXeKVJx0t7dYB9QaFoBn5U_v4H
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009618903 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oaaAAAAAAQAAAAEAAAAAAAAAALX8rP9aVzJiL1_0RIZXeKVJx0t7dYB9QaFoBn5U_v4H
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2t9IBAAAAAQAAAAEAAAAAAAAAACoyvu03oJEukceHTu7LUeI4ZVXoVTBcgWpMvgEguuR6
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009621982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011068555 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oaaAAAAAAQAAAAEAAAAAAAAAALX8rP9aVzJiL1_0RIZXeKVJx0t7dYB9QaFoBn5U_v4H
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009625079 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oeOFAAAAAQAAAAEAAAAAAAAAABCNoOa0MDZA7AhFliyJVArL6NxxIXH_YPcodPArUiPv
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2t9IBAAAAAQAAAAEAAAAAAAAAACoyvu03oJEukceHTu7LUeI4ZVXoVTBcgWpMvgEguuR6
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009628240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011071649 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oeOFAAAAAQAAAAEAAAAAAAAAABCNoOa0MDZA7AhFliyJVArL6NxxIXH_YPcodPArUiPv
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009631313 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oeOFAAAAAQAAAAEAAAAAAAAAABCNoOa0MDZA7AhFliyJVArL6NxxIXH_YPcodPArUiPv
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2t9IBAAAAAQAAAAEAAAAAAAAAACoyvu03oJEukceHTu7LUeI4ZVXoVTBcgWpMvgEguuR6
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009634397 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011074740 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oeOFAAAAAQAAAAEAAAAAAAAAABCNoOa0MDZA7AhFliyJVArL6NxxIXH_YPcodPArUiPv
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009637484 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oeOFAAAAAQAAAAEAAAAAAAAAABCNoOa0MDZA7AhFliyJVArL6NxxIXH_YPcodPArUiPv
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2t9IBAAAAAQAAAAEAAAAAAAAAACoyvu03oJEukceHTu7LUeI4ZVXoVTBcgWpMvgEguuR6
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009640575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011077814 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oh__AAAAAQAAAAEAAAAAAAAAAI7FXlcJEtLb6k0AAp6IKO6SnJgkfNGGv4EyuKbXYlCG
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009643718 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oh__AAAAAQAAAAEAAAAAAAAAAI7FXlcJEtLb6k0AAp6IKO6SnJgkfNGGv4EyuKbXYlCG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uA7WAAAAAQAAAAEAAAAAAAAAAMHWJdWrpd-PReQDUMShA0trb4atZQObNEVyTSbpNDz5
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009646815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011081074 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oh__AAAAAQAAAAEAAAAAAAAAAI7FXlcJEtLb6k0AAp6IKO6SnJgkfNGGv4EyuKbXYlCG
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009649897 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oh__AAAAAQAAAAEAAAAAAAAAAI7FXlcJEtLb6k0AAp6IKO6SnJgkfNGGv4EyuKbXYlCG
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uA7WAAAAAQAAAAEAAAAAAAAAAMHWJdWrpd-PReQDUMShA0trb4atZQObNEVyTSbpNDz5
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009652991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011084190 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oh__AAAAAQAAAAEAAAAAAAAAAI7FXlcJEtLb6k0AAp6IKO6SnJgkfNGGv4EyuKbXYlCG
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009656075 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2olypAAAAAQAAAAEAAAAAAAAAAIHSmYV3-T9D-Pf15ZjPZqiEmptm7-P6Oq-iDwGC0Iq-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uA7WAAAAAQAAAAEAAAAAAAAAAMHWJdWrpd-PReQDUMShA0trb4atZQObNEVyTSbpNDz5
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009659300 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011087309 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2olypAAAAAQAAAAEAAAAAAAAAAIHSmYV3-T9D-Pf15ZjPZqiEmptm7-P6Oq-iDwGC0Iq-
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009662373 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2olypAAAAAQAAAAEAAAAAAAAAAIHSmYV3-T9D-Pf15ZjPZqiEmptm7-P6Oq-iDwGC0Iq-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uA7WAAAAAQAAAAEAAAAAAAAAAMHWJdWrpd-PReQDUMShA0trb4atZQObNEVyTSbpNDz5
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009665470 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011090436 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2olypAAAAAQAAAAEAAAAAAAAAAIHSmYV3-T9D-Pf15ZjPZqiEmptm7-P6Oq-iDwGC0Iq-
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009668695 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2olypAAAAAQAAAAEAAAAAAAAAAIHSmYV3-T9D-Pf15ZjPZqiEmptm7-P6Oq-iDwGC0Iq-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uA7WAAAAAQAAAAEAAAAAAAAAAMHWJdWrpd-PReQDUMShA0trb4atZQObNEVyTSbpNDz5
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009671822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011093549 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2opoLAAAAAQAAAAEAAAAAAAAAAMHYMzkjtG9H42gN03pXph8N9DDPgr7RHtWBhcagHl6N
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009674968 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2opoLAAAAAQAAAAEAAAAAAAAAAMHYMzkjtG9H42gN03pXph8N9DDPgr7RHtWBhcagHl6N
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uEw7AAAAAQAAAAEAAAAAAAAAAJKWCaOJBD1SnW0jPBgB-LIbf9CHWtNCh3v8qIJMaZKN
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009678041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011096762 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2opoLAAAAAQAAAAEAAAAAAAAAAMHYMzkjtG9H42gN03pXph8N9DDPgr7RHtWBhcagHl6N
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009681124 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2opoLAAAAAQAAAAEAAAAAAAAAAMHYMzkjtG9H42gN03pXph8N9DDPgr7RHtWBhcagHl6N
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uEw7AAAAAQAAAAEAAAAAAAAAAJKWCaOJBD1SnW0jPBgB-LIbf9CHWtNCh3v8qIJMaZKN
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009684206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011099854 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2opoLAAAAAQAAAAEAAAAAAAAAAMHYMzkjtG9H42gN03pXph8N9DDPgr7RHtWBhcagHl6N
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009687351 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ota4AAAAAQAAAAEAAAAAAAAAAHdOLkUrVqi9qGmeT4OadBCNcsDx-qqKc-nRdrFC1tXc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uEw7AAAAAQAAAAEAAAAAAAAAAJKWCaOJBD1SnW0jPBgB-LIbf9CHWtNCh3v8qIJMaZKN
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009690577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011102991 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ota4AAAAAQAAAAEAAAAAAAAAAHdOLkUrVqi9qGmeT4OadBCNcsDx-qqKc-nRdrFC1tXc
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009693729 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ota4AAAAAQAAAAEAAAAAAAAAAHdOLkUrVqi9qGmeT4OadBCNcsDx-qqKc-nRdrFC1tXc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uEw7AAAAAQAAAAEAAAAAAAAAAJKWCaOJBD1SnW0jPBgB-LIbf9CHWtNCh3v8qIJMaZKN
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009696809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011106134 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ota4AAAAAQAAAAEAAAAAAAAAAHdOLkUrVqi9qGmeT4OadBCNcsDx-qqKc-nRdrFC1tXc
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009699907 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ota4AAAAAQAAAAEAAAAAAAAAAHdOLkUrVqi9qGmeT4OadBCNcsDx-qqKc-nRdrFC1tXc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uEw7AAAAAQAAAAEAAAAAAAAAAJKWCaOJBD1SnW0jPBgB-LIbf9CHWtNCh3v8qIJMaZKN
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009702979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011109227 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oxPDAAAAAQAAAAEAAAAAAAAAAIkBO8FxiTxn3WSPBxQA1VyT8ciRbWUE5qb2NtfNZPf1
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009706176 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oxPDAAAAAQAAAAEAAAAAAAAAAIkBO8FxiTxn3WSPBxQA1VyT8ciRbWUE5qb2NtfNZPf1
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uImSAAAAAQAAAAEAAAAAAAAAAH_EVxDVJPKi6T5TBHNizKqJvAM3EqmJRhSIK539K0i7
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009709302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011112476 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oxPDAAAAAQAAAAEAAAAAAAAAAIkBO8FxiTxn3WSPBxQA1VyT8ciRbWUE5qb2NtfNZPf1
-
-TUNNELS
-character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
-real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009712497 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oxPDAAAAAQAAAAEAAAAAAAAAAIkBO8FxiTxn3WSPBxQA1VyT8ciRbWUE5qb2NtfNZPf1
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uImSAAAAAQAAAAEAAAAAAAAAAH_EVxDVJPKi6T5TBHNizKqJvAM3EqmJRhSIK539K0i7
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009715625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011115593 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2oxPDAAAAAQAAAAEAAAAAAAAAAIkBO8FxiTxn3WSPBxQA1VyT8ciRbWUE5qb2NtfNZPf1
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uImSAAAAAQAAAAEAAAAAAAAAAH_EVxDVJPKi6T5TBHNizKqJvAM3EqmJRhSIK539K0i7
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
 real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735009718740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735011118700 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2o1GAAAAAAQAAAAEAAAAAAAAAACvhAILGe-lBwhT-2MbeaBAkWwGe9HW3YvRBFLN-cbiT
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uImSAAAAAQAAAAEAAAAAAAAAAH_EVxDVJPKi6T5TBHNizKqJvAM3EqmJRhSIK539K0i7
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011121800 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uImSAAAAAQAAAAEAAAAAAAAAAH_EVxDVJPKi6T5TBHNizKqJvAM3EqmJRhSIK539K0i7
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011124899 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uMazAAAAAQAAAAEAAAAAAAAAAK3OS5yYEOyjLp_fehbrYDHR0drDaBa59kdSGoE2UOeq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011128080 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uMazAAAAAQAAAAEAAAAAAAAAAK3OS5yYEOyjLp_fehbrYDHR0drDaBa59kdSGoE2UOeq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011131173 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uMazAAAAAQAAAAEAAAAAAAAAAK3OS5yYEOyjLp_fehbrYDHR0drDaBa59kdSGoE2UOeq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011134284 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uMazAAAAAQAAAAEAAAAAAAAAAK3OS5yYEOyjLp_fehbrYDHR0drDaBa59kdSGoE2UOeq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011137371 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uMazAAAAAQAAAAEAAAAAAAAAAK3OS5yYEOyjLp_fehbrYDHR0drDaBa59kdSGoE2UOeq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011140464 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uQN9AAAAAQAAAAEAAAAAAAAAAMWDm3jcn9HFTz2Mj2pIcwGmDNrw3zgI1EREhp9je9bH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011143666 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uQN9AAAAAQAAAAEAAAAAAAAAAMWDm3jcn9HFTz2Mj2pIcwGmDNrw3zgI1EREhp9je9bH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011146778 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uQN9AAAAAQAAAAEAAAAAAAAAAMWDm3jcn9HFTz2Mj2pIcwGmDNrw3zgI1EREhp9je9bH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011149906 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uQN9AAAAAQAAAAEAAAAAAAAAAMWDm3jcn9HFTz2Mj2pIcwGmDNrw3zgI1EREhp9je9bH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011153017 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uQN9AAAAAQAAAAEAAAAAAAAAAMWDm3jcn9HFTz2Mj2pIcwGmDNrw3zgI1EREhp9je9bH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011156138 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uUC1AAAAAQAAAAEAAAAAAAAAAEr3xQ3LugojfDHBMnkvWqK3niRblPs6JWh67I3y5CGT
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011159334 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uUC1AAAAAQAAAAEAAAAAAAAAAEr3xQ3LugojfDHBMnkvWqK3niRblPs6JWh67I3y5CGT
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011162428 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uUC1AAAAAQAAAAEAAAAAAAAAAEr3xQ3LugojfDHBMnkvWqK3niRblPs6JWh67I3y5CGT
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011165558 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uUC1AAAAAQAAAAEAAAAAAAAAAEr3xQ3LugojfDHBMnkvWqK3niRblPs6JWh67I3y5CGT
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011168650 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uUC1AAAAAQAAAAEAAAAAAAAAAEr3xQ3LugojfDHBMnkvWqK3niRblPs6JWh67I3y5CGT
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011171788 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uX3SAAAAAQAAAAEAAAAAAAAAAA-v95lakg5INgZueXnBOW52nXabqwi-UjkNbPbsyD_L
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011175039 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uX3SAAAAAQAAAAEAAAAAAAAAAA-v95lakg5INgZueXnBOW52nXabqwi-UjkNbPbsyD_L
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011178130 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uX3SAAAAAQAAAAEAAAAAAAAAAA-v95lakg5INgZueXnBOW52nXabqwi-UjkNbPbsyD_L
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011181206 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uX3SAAAAAQAAAAEAAAAAAAAAAA-v95lakg5INgZueXnBOW52nXabqwi-UjkNbPbsyD_L
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011184303 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uX3SAAAAAQAAAAEAAAAAAAAAAA-v95lakg5INgZueXnBOW52nXabqwi-UjkNbPbsyD_L
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011187404 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ubrUAAAAAQAAAAEAAAAAAAAAAOJdlv9nA3afxqhegEf-jMs7ykvSgksil1CwFlCsQ492
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011190725 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ubrUAAAAAQAAAAEAAAAAAAAAAOJdlv9nA3afxqhegEf-jMs7ykvSgksil1CwFlCsQ492
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011193822 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ubrUAAAAAQAAAAEAAAAAAAAAAOJdlv9nA3afxqhegEf-jMs7ykvSgksil1CwFlCsQ492
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011196923 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ubrUAAAAAQAAAAEAAAAAAAAAAOJdlv9nA3afxqhegEf-jMs7ykvSgksil1CwFlCsQ492
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011200078 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ubrUAAAAAQAAAAEAAAAAAAAAAOJdlv9nA3afxqhegEf-jMs7ykvSgksil1CwFlCsQ492
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011203170 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ufh4AAAAAQAAAAEAAAAAAAAAAGzGM1QY-RxTCY5i0mF_fSEpuY00hhshG-ugVaIusY_H
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011206359 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ufh4AAAAAQAAAAEAAAAAAAAAAGzGM1QY-RxTCY5i0mF_fSEpuY00hhshG-ugVaIusY_H
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011209447 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ufh4AAAAAQAAAAEAAAAAAAAAAGzGM1QY-RxTCY5i0mF_fSEpuY00hhshG-ugVaIusY_H
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011212545 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ufh4AAAAAQAAAAEAAAAAAAAAAGzGM1QY-RxTCY5i0mF_fSEpuY00hhshG-ugVaIusY_H
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011215669 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ufh4AAAAAQAAAAEAAAAAAAAAAGzGM1QY-RxTCY5i0mF_fSEpuY00hhshG-ugVaIusY_H
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011218792 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ujV6AAAAAQAAAAEAAAAAAAAAAFplQwvnHUzW3i4Kmp5hrLKcFGgRJe2bwkDk2NDtmei9
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011221985 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ujV6AAAAAQAAAAEAAAAAAAAAAFplQwvnHUzW3i4Kmp5hrLKcFGgRJe2bwkDk2NDtmei9
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011225104 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ujV6AAAAAQAAAAEAAAAAAAAAAFplQwvnHUzW3i4Kmp5hrLKcFGgRJe2bwkDk2NDtmei9
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011228197 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ujV6AAAAAQAAAAEAAAAAAAAAAFplQwvnHUzW3i4Kmp5hrLKcFGgRJe2bwkDk2NDtmei9
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011231320 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2ujV6AAAAAQAAAAEAAAAAAAAAAFplQwvnHUzW3i4Kmp5hrLKcFGgRJe2bwkDk2NDtmei9
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011234430 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2unKKAAAAAQAAAAEAAAAAAAAAAKqwnF4jOivU6UQpa4ZpRrVvwPp1CC4bNdqOpNnAyPhq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011237628 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2unKKAAAAAQAAAAEAAAAAAAAAAKqwnF4jOivU6UQpa4ZpRrVvwPp1CC4bNdqOpNnAyPhq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011240722 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2unKKAAAAAQAAAAEAAAAAAAAAAKqwnF4jOivU6UQpa4ZpRrVvwPp1CC4bNdqOpNnAyPhq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011243832 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2unKKAAAAAQAAAAEAAAAAAAAAAKqwnF4jOivU6UQpa4ZpRrVvwPp1CC4bNdqOpNnAyPhq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011246939 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2unKKAAAAAQAAAAEAAAAAAAAAAKqwnF4jOivU6UQpa4ZpRrVvwPp1CC4bNdqOpNnAyPhq
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011250038 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uq-pAAAAAQAAAAEAAAAAAAAAAKfGRIc2ctgQWgX3ASSNq4AYYOyLnp43Za39uNAtw1Xi
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011253249 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uq-pAAAAAQAAAAEAAAAAAAAAAKfGRIc2ctgQWgX3ASSNq4AYYOyLnp43Za39uNAtw1Xi
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011256358 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uq-pAAAAAQAAAAEAAAAAAAAAAKfGRIc2ctgQWgX3ASSNq4AYYOyLnp43Za39uNAtw1Xi
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011259479 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uq-pAAAAAQAAAAEAAAAAAAAAAKfGRIc2ctgQWgX3ASSNq4AYYOyLnp43Za39uNAtw1Xi
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011262579 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uq-pAAAAAQAAAAEAAAAAAAAAAKfGRIc2ctgQWgX3ASSNq4AYYOyLnp43Za39uNAtw1Xi
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011265660 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uux7AAAAAQAAAAEAAAAAAAAAAAtU8mFkdvT2xGcdhg3I6dY7FM3Ja1ReE0cy10lL-JC3
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011268829 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uux7AAAAAQAAAAEAAAAAAAAAAAtU8mFkdvT2xGcdhg3I6dY7FM3Ja1ReE0cy10lL-JC3
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011271944 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uux7AAAAAQAAAAEAAAAAAAAAAAtU8mFkdvT2xGcdhg3I6dY7FM3Ja1ReE0cy10lL-JC3
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011275037 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uux7AAAAAQAAAAEAAAAAAAAAAAtU8mFkdvT2xGcdhg3I6dY7FM3Ja1ReE0cy10lL-JC3
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011278148 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uux7AAAAAQAAAAEAAAAAAAAAAAtU8mFkdvT2xGcdhg3I6dY7FM3Ja1ReE0cy10lL-JC3
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011281277 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uyl6AAAAAQAAAAEAAAAAAAAAAAyT3EmR9lbIwoh-zONOfBp16bHIdLvVHYLd1x32k089
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011284434 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uyl6AAAAAQAAAAEAAAAAAAAAAAyT3EmR9lbIwoh-zONOfBp16bHIdLvVHYLd1x32k089
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011287543 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uyl6AAAAAQAAAAEAAAAAAAAAAAyT3EmR9lbIwoh-zONOfBp16bHIdLvVHYLd1x32k089
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011290621 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uyl6AAAAAQAAAAEAAAAAAAAAAAyT3EmR9lbIwoh-zONOfBp16bHIdLvVHYLd1x32k089
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011293737 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2uyl6AAAAAQAAAAEAAAAAAAAAAAyT3EmR9lbIwoh-zONOfBp16bHIdLvVHYLd1x32k089
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011296821 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u2ZJAAAAAQAAAAEAAAAAAAAAADFSZBRvZKhjyZyGmKnM1BRxon7mr2OgBE1-mJ5jP8Iw
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011300016 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u2ZJAAAAAQAAAAEAAAAAAAAAADFSZBRvZKhjyZyGmKnM1BRxon7mr2OgBE1-mJ5jP8Iw
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011303101 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u2ZJAAAAAQAAAAEAAAAAAAAAADFSZBRvZKhjyZyGmKnM1BRxon7mr2OgBE1-mJ5jP8Iw
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011306197 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u2ZJAAAAAQAAAAEAAAAAAAAAADFSZBRvZKhjyZyGmKnM1BRxon7mr2OgBE1-mJ5jP8Iw
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011309323 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u2ZJAAAAAQAAAAEAAAAAAAAAADFSZBRvZKhjyZyGmKnM1BRxon7mr2OgBE1-mJ5jP8Iw
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011312417 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u6M0AAAAAQAAAAEAAAAAAAAAABfrARjT0UTdeaFOs9Y52jBl6UnAcW8_mOw0bpZaWCpM
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011315596 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u6M0AAAAAQAAAAEAAAAAAAAAABfrARjT0UTdeaFOs9Y52jBl6UnAcW8_mOw0bpZaWCpM
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011318706 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u6M0AAAAAQAAAAEAAAAAAAAAABfrARjT0UTdeaFOs9Y52jBl6UnAcW8_mOw0bpZaWCpM
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011321789 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u6M0AAAAAQAAAAEAAAAAAAAAABfrARjT0UTdeaFOs9Y52jBl6UnAcW8_mOw0bpZaWCpM
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011324889 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u6M0AAAAAQAAAAEAAAAAAAAAABfrARjT0UTdeaFOs9Y52jBl6UnAcW8_mOw0bpZaWCpM
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011327964 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u9_tAAAAAQAAAAEAAAAAAAAAAJuw1WWfaIYA2pyyDjW9weu3MQ_B9vjHGVToJFca1S2o
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011331139 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u9_tAAAAAQAAAAEAAAAAAAAAAJuw1WWfaIYA2pyyDjW9weu3MQ_B9vjHGVToJFca1S2o
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011334219 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u9_tAAAAAQAAAAEAAAAAAAAAAJuw1WWfaIYA2pyyDjW9weu3MQ_B9vjHGVToJFca1S2o
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011337307 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u9_tAAAAAQAAAAEAAAAAAAAAAJuw1WWfaIYA2pyyDjW9weu3MQ_B9vjHGVToJFca1S2o
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011340397 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2u9_tAAAAAQAAAAEAAAAAAAAAAJuw1WWfaIYA2pyyDjW9weu3MQ_B9vjHGVToJFca1S2o
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011343506 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vBybAAAAAQAAAAEAAAAAAAAAAGVdMmRwNC8aOOjDvETCVTtWb5HUrcGG3jSA8-lE8nDC
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011346732 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vBybAAAAAQAAAAEAAAAAAAAAAGVdMmRwNC8aOOjDvETCVTtWb5HUrcGG3jSA8-lE8nDC
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011349825 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vBybAAAAAQAAAAEAAAAAAAAAAGVdMmRwNC8aOOjDvETCVTtWb5HUrcGG3jSA8-lE8nDC
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011352942 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vBybAAAAAQAAAAEAAAAAAAAAAGVdMmRwNC8aOOjDvETCVTtWb5HUrcGG3jSA8-lE8nDC
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011356051 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vBybAAAAAQAAAAEAAAAAAAAAAGVdMmRwNC8aOOjDvETCVTtWb5HUrcGG3jSA8-lE8nDC
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011359148 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vFn2AAAAAQAAAAEAAAAAAAAAAP8xd7njl2Umkr-2T_5qvgb7xb0ELe4idsUXSxmgpTZA
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011362407 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vFn2AAAAAQAAAAEAAAAAAAAAAP8xd7njl2Umkr-2T_5qvgb7xb0ELe4idsUXSxmgpTZA
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011365511 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vFn2AAAAAQAAAAEAAAAAAAAAAP8xd7njl2Umkr-2T_5qvgb7xb0ELe4idsUXSxmgpTZA
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011368632 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vFn2AAAAAQAAAAEAAAAAAAAAAP8xd7njl2Umkr-2T_5qvgb7xb0ELe4idsUXSxmgpTZA
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011371729 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vFn2AAAAAQAAAAEAAAAAAAAAAP8xd7njl2Umkr-2T_5qvgb7xb0ELe4idsUXSxmgpTZA
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011374824 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vJcBAAAAAQAAAAEAAAAAAAAAAAzooShlsErzeuGTD1a49fA30wSvKR87AVw9DB0FPFRH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011378024 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vJcBAAAAAQAAAAEAAAAAAAAAAAzooShlsErzeuGTD1a49fA30wSvKR87AVw9DB0FPFRH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011381135 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vJcBAAAAAQAAAAEAAAAAAAAAAAzooShlsErzeuGTD1a49fA30wSvKR87AVw9DB0FPFRH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011384252 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vJcBAAAAAQAAAAEAAAAAAAAAAAzooShlsErzeuGTD1a49fA30wSvKR87AVw9DB0FPFRH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011387362 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vJcBAAAAAQAAAAEAAAAAAAAAAAzooShlsErzeuGTD1a49fA30wSvKR87AVw9DB0FPFRH
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011390450 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vNQEAAAAAQAAAAEAAAAAAAAAAK2KVeXx4j6OqfbItz3T94TSXK3uTsrgIkjjUc4Xa2hJ
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011393650 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vNQEAAAAAQAAAAEAAAAAAAAAAK2KVeXx4j6OqfbItz3T94TSXK3uTsrgIkjjUc4Xa2hJ
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011396745 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vNQEAAAAAQAAAAEAAAAAAAAAAK2KVeXx4j6OqfbItz3T94TSXK3uTsrgIkjjUc4Xa2hJ
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011399842 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vNQEAAAAAQAAAAEAAAAAAAAAAK2KVeXx4j6OqfbItz3T94TSXK3uTsrgIkjjUc4Xa2hJ
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011402929 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vNQEAAAAAQAAAAEAAAAAAAAAAK2KVeXx4j6OqfbItz3T94TSXK3uTsrgIkjjUc4Xa2hJ
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011406046 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vRDkAAAAAQAAAAEAAAAAAAAAAEeyZXjmFRcPV15ZvvNFwPaZ3RaXVrpTCBZLpp57mAxw
+
+TUNNELS
+character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
+real-cliff.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735011409214 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA6JXQAAAZP2vRDkAAAAAQAAAAEAAAAAAAAAAEeyZXjmFRcPV15ZvvNFwPaZ3RaXVrpTCBZLpp57mAxw
 
 TUNNELS
 character-okay.gl.at.ply.gg:44223 => 127.0.0.1:44223 (minecraft-bedrock)
