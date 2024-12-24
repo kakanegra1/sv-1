@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1735039966238
-  login: 1735039940542
+  logout: 1735049000423
+  login: 1735045143522
 money: '0'
 last-account-name: .Spbstrome17
 logoutlocation:
-  world: 30568386-bd70-43db-b339-e660e06c8b88
-  world-name: world
-  x: -81.47567
-  y: 75.0
-  z: 111.9691
-  yaw: -35.3045654296875
-  pitch: 1.439208984375
+  world: 63e11af7-b46d-4cd8-806d-9ac2176a5491
+  world-name: register
+  x: -11.91725
+  y: -59.0
+  z: -6.991991
+  yaw: 66.02207946777344
+  pitch: 5.7730255126953125
