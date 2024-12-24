@@ -190,3 +190,327 @@
 [00:22:45] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] Checking for Updates ... 
 [00:22:45] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] No new version available
 [00:22:46] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[00:54:18] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[00:54:22] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[00:54:22] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[00:54:22] [Server thread/WARN]: Invalid sha1 for resource-pack-sha1
+[00:54:22] [Server thread/WARN]: resource-pack-id missing, using default of 8cae84f6-8209-3eeb-9f9c-fadb6ea3f9a9
+[00:54:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:54:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:54:22] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[00:54:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[00:54:22] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[00:54:22] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
+[00:54:22] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:54:22] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:54:22] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:54:22] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[00:54:22] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[00:54:22] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:54:22] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.151
+[00:54:22] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:54:22] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:54:22] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:54:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[00:54:22] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[00:54:22] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:54:23] [WebSocketConnectReadThread-163/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:54:23] [Server thread/INFO]: Loaded 1290 recipes
+[00:54:23] [Server thread/INFO]: Loaded 1399 advancements
+[00:54:23] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:54:23] [Server thread/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[00:54:23] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Essentials (2.21.0-dev+151-f2af952), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.151), PlaceholderAPI (2.11.6), SternalBoard (2.3.0), Vault (1.7.3-b131), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[00:54:24] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[00:54:24] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[00:54:24] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[00:54:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:54:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:54:26] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.151
+[00:54:27] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:54:28] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[00:54:28] [Server thread/INFO]: [floodgate] Took 1,329ms to boot Floodgate
+[00:54:28] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[00:54:28] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:54:28] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[00:54:30] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[00:54:30] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[00:54:30] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
+[00:54:30] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+151-f2af952
+[00:54:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:54:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.151
+[00:54:30] [Server thread/INFO]:         __    
+[00:54:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.151
+[00:54:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:54:30] [Server thread/INFO]: 
+[00:54:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:54:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:54:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:54:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:54:30] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 576ms)
+[00:54:30] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:54:30] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:54:30] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:54:31] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:54:31] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:54:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[00:54:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[00:54:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:54:31] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[00:54:31] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[00:54:31] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[00:54:31] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[00:54:31] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[00:54:31] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[00:54:31] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[00:54:31] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[00:54:31] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[00:54:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[00:54:31] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[00:54:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[00:54:31] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[00:54:31] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[00:54:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[00:54:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[00:54:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[00:54:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[00:54:31] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[00:54:31] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:54:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:54:32] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[00:54:32] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[00:54:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+151-f2af952
+[00:54:33] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:54:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:54:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:54:33] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[00:54:33] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[00:54:33] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[00:54:33] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[00:54:33] [Server thread/INFO]: [Essentials] Using locale en
+[00:54:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:54:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:54:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[00:54:33] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:54:33] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:54:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:54:33] [Server thread/INFO]: [Geyser-Spigot] 
+[00:54:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b735 (git-master-006fe75)
+[00:54:33] [Server thread/INFO]: [Geyser-Spigot] 
+[00:54:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:54:40] [epollEventLoopGroup-9-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[00:54:40] [Server thread/INFO]: [Geyser-Spigot] Done (6.527s)! Run /geyser help for help!
+[00:54:40] [Server thread/INFO]: CONSOLE: Reload complete.
+[00:54:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17800ms or 356 ticks behind
+[00:54:40] [Server thread/INFO]: Timings Reset
+[00:54:40] [Craft Scheduler Thread - 199 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:54:40] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[00:54:40] [Craft Scheduler Thread - 199 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:54:40] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[00:54:40] [Craft Scheduler Thread - 197 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:54:40] [Craft Scheduler Thread - 197 - Vault/INFO]: [Vault] No new version available
+[00:56:46] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[00:56:51] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[00:56:51] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[00:56:51] [Server thread/WARN]: Invalid sha1 for resource-pack-sha1
+[00:56:51] [Server thread/WARN]: resource-pack-id missing, using default of 8cae84f6-8209-3eeb-9f9c-fadb6ea3f9a9
+[00:56:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:56:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:56:51] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[00:56:51] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[00:56:51] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[00:56:51] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
+[00:56:51] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:56:51] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:56:51] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:56:51] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[00:56:51] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[00:56:51] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:56:51] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.151
+[00:56:51] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:56:51] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:56:51] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:56:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[00:56:51] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[00:56:51] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:56:51] [WebSocketConnectReadThread-495/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:56:51] [Server thread/INFO]: Loaded 1290 recipes
+[00:56:52] [Server thread/INFO]: Loaded 1399 advancements
+[00:56:52] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:56:52] [Server thread/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[00:56:52] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Essentials (2.21.0-dev+151-f2af952), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.151), PlaceholderAPI (2.11.6), SternalBoard (2.3.0), Vault (1.7.3-b131), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[00:56:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[00:56:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[00:56:53] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[00:56:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:56:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:56:55] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.151
+[00:56:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:56:56] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[00:56:56] [Server thread/INFO]: [floodgate] Took 1,383ms to boot Floodgate
+[00:56:56] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[00:56:56] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:56:56] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[00:56:57] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[00:56:58] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[00:56:58] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[00:56:58] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
+[00:56:58] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+151-f2af952
+[00:56:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:56:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.151
+[00:56:58] [Server thread/INFO]:         __    
+[00:56:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.151
+[00:56:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:56:58] [Server thread/INFO]: 
+[00:56:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:56:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:56:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:56:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:56:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 544ms)
+[00:56:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:56:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:56:59] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:56:59] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:56:59] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:56:59] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[00:56:59] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[00:56:59] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:56:59] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[00:56:59] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[00:56:59] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[00:56:59] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[00:56:59] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[00:56:59] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[00:56:59] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[00:56:59] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[00:56:59] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[00:56:59] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[00:56:59] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[00:56:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[00:56:59] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[00:56:59] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[00:56:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[00:56:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[00:56:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[00:56:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[00:56:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[00:57:00] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:57:00] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:57:00] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[00:57:00] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[00:57:00] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+151-f2af952
+[00:57:01] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:57:01] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:57:01] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:57:01] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[00:57:01] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[00:57:01] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[00:57:01] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[00:57:01] [Server thread/INFO]: [Essentials] Using locale en
+[00:57:01] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:57:01] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:57:01] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[00:57:01] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:57:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:57:01] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[00:57:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:57:01] [Server thread/INFO]: [Geyser-Spigot] 
+[00:57:01] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b735 (git-master-006fe75)
+[00:57:01] [Server thread/INFO]: [Geyser-Spigot] 
+[00:57:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:57:08] [epollEventLoopGroup-15-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 44223
+[00:57:08] [Server thread/INFO]: [Geyser-Spigot] Done (6.535s)! Run /geyser help for help!
+[00:57:08] [Server thread/INFO]: CONSOLE: Reload complete.
+[00:57:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17028ms or 340 ticks behind
+[00:57:08] [Server thread/INFO]: Timings Reset
+[00:57:08] [Craft Scheduler Thread - 215 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:57:08] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[00:57:08] [Craft Scheduler Thread - 219 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:57:08] [Craft Scheduler Thread - 215 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:57:08] [Craft Scheduler Thread - 219 - Vault/INFO]: [Vault] No new version available
+[01:03:59] [Server thread/INFO]: Stopping the server
+[01:03:59] [Server thread/INFO]: Stopping server
+[01:03:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[01:03:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[01:03:59] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
+[01:03:59] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[01:03:59] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:03:59] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:03:59] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[01:03:59] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[01:03:59] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[01:03:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.151
+[01:03:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:03:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:03:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:03:59] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[01:03:59] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:03:59] [Server thread/INFO]: Saving players
+[01:04:00] [Server thread/INFO]: Saving worlds
+[01:04:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:04:00] [WebSocketConnectReadThread-590/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Saved 796 block chunks, 1 entity chunks, 0 poi chunks in world 'world' in 0.40s
+[01:04:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Saved 795 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.29s
+[01:04:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:04:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:04:01] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.26s
+[01:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
