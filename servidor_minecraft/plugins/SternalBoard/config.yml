@@ -23,14 +23,12 @@ settings:
   mode: NORMAL
   scoreboard-interval-update: 20
   scoreboard:
-    title: '&b&lSternal&f&lBoard'
+    title: '&x&0&0&4&7&8&0&oB&x&2&6&7&D&9&D&oA&x&4&D&B&3&B&9&oK&x&7&3&E&9&D&6&oI&x&4&F&E&2&E&3&oN&x&2&A&D&B&E&F&oG&x&0&6&D&4&F&C&o-&x&0&6&D&4&F&C&oS&x&0&6&D&4&F&C&oO&x&0&6&D&4&F&C&oD&x&0&6&D&4&F&C&oA'
     lines:
-      - '&8&m+-------------------+'
-      - ''
-      - '&a&l▼ &bData:'
-      - '&f● &7Nick: &b%player_name%'
-      - '&f● &7Rank: &b%vault_rank%'
-      - '&f● &7Coins: &e%vault_eco_balance_formatted%'
+      - '&a&l▼ &x&0&0&4&7&8&0&o&nD&x&1&0&6&D&A&B&o&na&x&1&F&9&3&D&6&o&nt&x&1&3&B&4&E&9&o&no&x&0&6&D&4&F&C&o&ns :'
+      - '&f● &x&0&0&4&7&8&0&lN&x&0&0&4&7&8&0&li&x&1&0&6&D&A&B&lc&x&1&F&9&3&D&6&lk &x&6&A&C&2&E&5&l: &2&l%player_name%'
+      - '&f● &x&0&0&4&7&8&0&lR&x&0&0&4&7&8&0&la&x&1&0&6&D&A&B&ln&x&1&F&9&3&D&6&lk &x&6&A&C&2&E&5&l: &b%vault_rank%'
+      - '&f● &x&0&0&4&7&8&0&lD&x&0&0&4&7&8&0&li&x&0&A&6&0&9&D&ln&x&1&5&7&A&B&9&le&x&1&F&9&3&D&6&lr&x&4&5&A&B&D&E&lo &x&6&A&C&2&E&5&l: &e%vault_eco_balance_formatted%'
       - ''
       - '&a&l▼ &bExample:'
       - '&f● &7Lobby: &b#1'
@@ -65,14 +63,14 @@ tab-list:
 # If world no exist or is not configured, will use scoreboard section
 scoreboard-world:
   'world':
-    title: '&b&lSternal&f&lBoard &d&lWORLD'
+    title: '&x&0&0&4&7&8&0&oB&x&2&6&7&D&9&D&oA&x&4&D&B&3&B&9&oK&x&7&3&E&9&D&6&oI&x&4&F&E&2&E&3&oN&x&2&A&D&B&E&F&oG&x&0&6&D&4&F&C&o-&x&0&6&D&4&F&C&oS&x&0&6&D&4&F&C&oO&x&0&6&D&4&F&C&oD&x&0&6&D&4&F&C&oA'
     lines:
-      - '&8&m+-------------------+'
+      - ''
       - '      &6&lWORLD'
-      - '&a&l▼ &bData:'
-      - '&f● &7Nick: &b%player_name%'
-      - '&f● &7Rank: &b%vault_rank%'
-      - '&f● &7Coins: &e%vault_eco_balance_formatted%'
+      - '&a&l▼ &x&0&0&4&7&8&0&o&nD&x&1&0&6&D&A&B&o&na&x&1&F&9&3&D&6&o&nt&x&1&3&B&4&E&9&o&no&x&0&6&D&4&F&C&o&ns :'
+      - '&f● &x&0&0&4&7&8&0&lN&x&0&0&4&7&8&0&li&x&1&0&6&D&A&B&lc&x&1&F&9&3&D&6&lk &x&6&A&C&2&E&5&l: &b%player_name%'
+      - '&f● &x&0&0&4&7&8&0&lR&x&0&0&4&7&8&0&la&x&1&0&6&D&A&B&ln&x&1&F&9&3&D&6&lk &x&6&A&C&2&E&5&l: &b%vault_rank%'
+      - '&f● &x&0&0&4&7&8&0&lD&x&0&0&4&7&8&0&li&x&0&A&6&0&9&D&ln&x&1&5&7&A&B&9&le&x&1&F&9&3&D&6&lr&x&4&5&A&B&D&E&lo &x&6&A&C&2&E&5&l: &e%vault_eco_balance_formatted%'
       - ''
       - '&a&l▼ &bExample:'
       - '&f● &7Lobby: &b#1'
@@ -142,7 +140,7 @@ scoreboard-permission:
       - '&f● &fIP: &bplay.yournetwork.com'
   'owner':
     node: 'sternalboard.owner'
-    title: '&b&lSternal&f&lBoard &d&lOWNER'
+    title: '&x&0&0&4&7&8&0&oB&x&2&6&7&D&9&D&oA&x&4&D&B&3&B&9&oK&x&7&3&E&9&D&6&oI&x&4&F&E&2&E&3&oN&x&2&A&D&B&E&F&oG&x&0&6&D&4&F&C&o-&x&0&6&D&4&F&C&oS&x&0&6&D&4&F&C&oO&x&0&6&D&4&F&C&oD&x&0&6&D&4&F&C&oA'
     lines:
         - '&8&m+-------------------+'
         - '      &6&lOWNER'

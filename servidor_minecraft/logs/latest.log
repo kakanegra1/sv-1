@@ -1,221 +1,219 @@
-[03:31:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:31:02] [ServerMain/INFO]: Loaded 7 recipes
-[03:31:03] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:31:03] [Server thread/INFO]: Loading properties
-[03:31:03] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[03:31:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:31:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:31:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[03:38:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:38:11] [ServerMain/INFO]: Loaded 7 recipes
+[03:38:11] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:38:11] [Server thread/INFO]: Loading properties
+[03:38:11] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[03:38:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:38:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:38:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:31:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:31:04] [Server thread/INFO]: Default game type: SURVIVAL
-[03:31:04] [Server thread/INFO]: Generating keypair
-[03:31:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:31:04] [Server thread/INFO]: Using epoll channel type
-[03:31:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:31:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:31:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[03:31:05] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[03:31:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:31:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:31:05] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[03:31:05] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[03:31:06] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[03:31:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[03:31:06] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[03:31:06] [Server thread/INFO]: [floodgate] Took 467ms to boot Floodgate
-[03:31:06] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[03:31:06] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[03:31:06] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
-[03:31:06] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[03:31:07] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[03:31:07] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[03:31:07] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
-[03:31:07] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.18
-[03:31:07] [Server thread/INFO]: [nLogin] Downloading required dependencies (using 4 cores)
-[03:31:08] [Server thread/INFO]: [nLogin] Relocating dependencies (using 4 cores)
-[03:31:11] [Server thread/INFO]: [nLogin] All dependencies were loaded successfully. Took 3.71s
-[03:31:11] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.0
-[03:31:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:31:11] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[03:31:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[03:31:11] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[03:31:11] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[03:31:11] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.18
-[03:31:12] [Server thread/INFO]: [nLogin] Successful plugin core start (took 1.05s)
-[03:31:12] [Server thread/INFO]:           __             _       
-[03:31:12] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
-[03:31:12] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
-[03:31:12] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
-[03:31:12] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
-[03:31:12] [Server thread/INFO]:                   |___/            
-[03:31:12] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.18 DEVELOPMENT
-[03:31:12] [Server thread/INFO]:  
-[03:31:13] [Server thread/INFO]: [nLogin] Generating RSA keypair... (this may take a while)
-[03:31:14] [Server thread/INFO]: [nLogin] The RSA key pair was successfully generated. Took 0.93s
-[03:31:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:31:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:31:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:31:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:31:15] [Server thread/INFO]: Preparing level "world"
-[03:31:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:31:15] [Server thread/INFO]: Time elapsed: 246 ms
-[03:31:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:31:15] [Server thread/INFO]: Time elapsed: 71 ms
-[03:31:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:31:15] [Server thread/INFO]: Time elapsed: 72 ms
-[03:31:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[03:31:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[03:31:15] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.13).
-[03:31:15] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
-[03:31:15] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[03:31:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[03:31:16] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[03:31:16] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[03:31:16] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[03:31:16] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[03:31:16] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
-[03:31:16] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -2912366732735524995
-[03:31:16] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -2912366732735524995
-[03:31:18] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[03:31:18] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -80 Y: 73 Z: 112 P: 0 Y: 0 
-[03:31:18] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:-71.50,77.00,112.50:0.00:0.00
-[03:31:18] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -2912366732735524995
-[03:31:18] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[03:31:18] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -80 Y: 73 Z: 112 P: 0 Y: 0 
-[03:31:18] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_the_end' is located at: world_the_end:0.00,64.00,0.00:0.00:0.00
-[03:31:18] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[03:31:18] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[03:31:18] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[03:31:18] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[03:31:18] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
-[03:31:18] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
-[03:31:18] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-legacy/4.17.0/adventure-text-serializer-legacy-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.7/jar-relocator-1.7.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-legacy-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-plain-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json/4.17.0/adventure-text-serializer-json-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-ansi-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson/4.17.0/adventure-text-serializer-gson-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-nbt/4.17.0/adventure-nbt-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-nbt-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json-legacy-impl/4.17.0/adventure-text-serializer-json-legacy-impl-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-legacy-impl-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.17.0/adventure-text-serializer-gson-legacy-impl-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-legacy-impl-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-minimessage-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
-[03:31:19] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-api-4.17.0.jar
-[03:31:19] [Server thread/INFO]: [SternalBoard] Loading library examination-api
-[03:31:20] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Relocations applied to examination-api-1.3.0.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
-[03:31:20] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-api-4.3.3.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
-[03:31:20] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-bukkit-4.3.3.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
-[03:31:20] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-facet-4.3.3.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
-[03:31:20] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[03:31:20] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-key-4.17.0.jar
-[03:31:20] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.0
-[03:31:20] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[03:31:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:31:20] [Server thread/INFO]: [Geyser-Spigot] 
-[03:31:20] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b735 (git-master-006fe75)
-[03:31:20] [Server thread/INFO]: [Geyser-Spigot] 
-[03:31:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:31:24] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[03:31:24] [Server thread/INFO]: [Geyser-Spigot] Done (4.197s)! Run /geyser help for help!
-[03:31:24] [ForkJoinPool.commonPool-worker-2/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
-[03:31:24] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
-[03:31:24] [Server thread/INFO]: Running delayed init tasks
-[03:31:24] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[03:31:24] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[03:31:24] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
-[03:31:24] [Server thread/INFO]: Done (21.450s)! For help, type "help"
-[03:31:24] [Server thread/INFO]: Timings Reset
-[03:31:24] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
-[03:31:25] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
-[03:31:29] [Server thread/INFO]: 
-[03:31:29] [Server thread/INFO]:  Thank you so much for choosing nLogin! <3
-[03:31:29] [Server thread/INFO]: 
-[03:31:29] [Server thread/INFO]:  For your safety, please read the message below:
-[03:31:29] [Server thread/INFO]:   Never download nLogin from unknown sources.
-[03:31:29] [Server thread/INFO]:   A modified version may contain malicious software.
-[03:31:29] [Server thread/INFO]: 
-[03:31:29] [Server thread/INFO]:  Trusted sources:
-[03:31:29] [Server thread/INFO]:   www.nickuc.com
-[03:31:29] [Server thread/INFO]:   www.github.com/nickuc
-[03:31:29] [Server thread/INFO]:   OpeNLogin installer (from Spigot or GitHub)
-[03:31:29] [Server thread/INFO]: 
-[03:31:29] [Server thread/INFO]:  Official support channels:
-[03:31:29] [Server thread/INFO]:   Discord group: www.nickuc.com/discord
-[03:31:29] [Server thread/INFO]:   Documentation: docs.nickuc.com/nlogin/
-[03:31:29] [Server thread/INFO]:   Email: support@nickuc.com
-[03:31:29] [Server thread/INFO]:   YouTube: youtube.com/nickuc
-[03:31:29] [Server thread/INFO]: 
-[03:31:29] [Server thread/INFO]:  To remove this warning, log in with "nlogin.admin" permission on the server
-[03:31:29] [Server thread/INFO]:  and click the "Setup plugin" button to configure your plugin.
-[03:31:29] [Server thread/INFO]: 
-[03:31:56] [Server thread/INFO]: Stopping the server
-[03:31:57] [Server thread/INFO]: Stopping server
-[03:31:57] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
-[03:31:57] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.18
-[03:31:57] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
-[03:31:57] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
-[03:31:57] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[03:31:57] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[03:31:57] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[03:31:57] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
-[03:31:57] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
-[03:31:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[03:31:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[03:31:57] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[03:31:57] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
-[03:31:57] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[03:31:57] [Server thread/INFO]: Saving players
-[03:31:57] [Server thread/INFO]: Saving worlds
-[03:31:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:31:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:31:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:31:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:31:57] [WebSocketConnectReadThread-90/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[03:31:58] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 1.40s
-[03:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:31:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:31:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:31:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:31:59] [Server thread/INFO]: [ChunkHolderManager] Saved 2025 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.87s
-[03:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:31:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:31:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:31:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:32:00] [Server thread/INFO]: [ChunkHolderManager] Saved 1617 block chunks, 552 entity chunks, 0 poi chunks in world 'world_the_end' in 0.36s
-[03:32:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:32:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:32:00] [Server thread/INFO]: Flushing Chunk IO
-[03:32:00] [Server thread/INFO]: Closing Thread Pool
-[03:32:00] [Server thread/INFO]: Closing Server
+[03:38:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:38:12] [Server thread/INFO]: Default game type: SURVIVAL
+[03:38:12] [Server thread/INFO]: Generating keypair
+[03:38:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:38:12] [Server thread/INFO]: Using epoll channel type
+[03:38:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:38:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:38:13] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[03:38:13] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[03:38:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:38:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:38:14] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:38:14] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:38:14] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[03:38:14] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:38:14] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:38:14] [Server thread/INFO]: [floodgate] Took 456ms to boot Floodgate
+[03:38:14] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[03:38:14] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[03:38:15] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.14
+[03:38:15] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[03:38:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:38:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:38:15] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.0
+[03:38:15] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.18
+[03:38:16] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.0
+[03:38:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:38:16] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[03:38:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[03:38:16] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[03:38:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[03:38:16] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.18
+[03:38:17] [Server thread/INFO]: [nLogin] Successful plugin core start (took 1.14s)
+[03:38:17] [Server thread/INFO]:           __             _       
+[03:38:17] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[03:38:17] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[03:38:17] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[03:38:17] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[03:38:17] [Server thread/INFO]:                   |___/            
+[03:38:17] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.18 DEVELOPMENT
+[03:38:17] [Server thread/INFO]:  
+[03:38:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:38:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:38:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:38:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:38:17] [Server thread/INFO]: Preparing level "world"
+[03:38:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:38:18] [Server thread/INFO]: Time elapsed: 185 ms
+[03:38:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:38:18] [Server thread/INFO]: Time elapsed: 101 ms
+[03:38:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:38:18] [Server thread/INFO]: Time elapsed: 71 ms
+[03:38:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[03:38:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[03:38:18] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.13).
+[03:38:18] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[03:38:18] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:38:19] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[03:38:19] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:38:19] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[03:38:19] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[03:38:19] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[03:38:19] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[03:38:19] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[03:38:19] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[03:38:19] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[03:38:20] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[03:38:20] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[03:38:20] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.0
+[03:38:20] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[03:38:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:38:20] [Server thread/INFO]: [Geyser-Spigot] 
+[03:38:20] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b735 (git-master-006fe75)
+[03:38:20] [Server thread/INFO]: [Geyser-Spigot] 
+[03:38:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:38:24] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 44223
+[03:38:24] [Server thread/INFO]: [Geyser-Spigot] Done (4.595s)! Run /geyser help for help!
+[03:38:24] [Server thread/INFO]: Running delayed init tasks
+[03:38:24] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:38:24] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[03:38:24] [Server thread/INFO]: Done (13.449s)! For help, type "help"
+[03:38:24] [Server thread/INFO]: Timings Reset
+[03:38:24] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
+[03:38:25] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
+[03:38:29] [Server thread/INFO]: 
+[03:38:29] [Server thread/INFO]:  Thank you so much for choosing nLogin! <3
+[03:38:29] [Server thread/INFO]: 
+[03:38:29] [Server thread/INFO]:  For your safety, please read the message below:
+[03:38:29] [Server thread/INFO]:   Never download nLogin from unknown sources.
+[03:38:29] [Server thread/INFO]:   A modified version may contain malicious software.
+[03:38:29] [Server thread/INFO]: 
+[03:38:29] [Server thread/INFO]:  Trusted sources:
+[03:38:29] [Server thread/INFO]:   www.nickuc.com
+[03:38:29] [Server thread/INFO]:   www.github.com/nickuc
+[03:38:29] [Server thread/INFO]:   OpeNLogin installer (from Spigot or GitHub)
+[03:38:29] [Server thread/INFO]: 
+[03:38:29] [Server thread/INFO]:  Official support channels:
+[03:38:29] [Server thread/INFO]:   Discord group: www.nickuc.com/discord
+[03:38:29] [Server thread/INFO]:   Documentation: docs.nickuc.com/nlogin/
+[03:38:29] [Server thread/INFO]:   Email: support@nickuc.com
+[03:38:29] [Server thread/INFO]:   YouTube: youtube.com/nickuc
+[03:38:29] [Server thread/INFO]: 
+[03:38:29] [Server thread/INFO]:  To remove this warning, log in with "nlogin.admin" permission on the server
+[03:38:29] [Server thread/INFO]:  and click the "Setup plugin" button to configure your plugin.
+[03:38:29] [Server thread/INFO]: 
+[03:43:59] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[03:43:59] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[03:43:59] [User Authenticator #0/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[03:43:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[03:43:59] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 123 at ([world]-85.5, 68.0, 117.5)
+[03:44:35] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user .Spbstrome17 has successfully registered.
+[03:45:09] [Server thread/INFO]: .Spbstrome17 issued server command: /mv
+[03:46:19] [Server thread/INFO]: Made .Spbstrome17 a server operator
+[03:46:27] [Server thread/INFO]: .Spbstrome17 issued server command: /gm 1
+[03:46:32] [Server thread/INFO]: .Spbstrome17 issued server command: /gm 1
+[03:46:40] [Server thread/INFO]: .Spbstrome17 issued server command: /gamemode creative
+[03:46:40] [Server thread/INFO]: [.Spbstrome17: Set own game mode to Creative Mode]
+[03:47:51] [Server thread/INFO]: .Spbstrome17 issued server command: /time set day
+[03:47:51] [Server thread/INFO]: [.Spbstrome17: Set the time to 1000]
+[03:48:10] [Server thread/INFO]: .Spbstrome17 issued server command: /papi ecloud download vault
+[03:48:10] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:48:19] [Server thread/INFO]: .Spbstrome17 issued server command: /papi relaod
+[03:48:28] [Server thread/INFO]: .Spbstrome17 issued server command: /papi reload
+[03:48:28] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[03:48:28] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:48:28] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion vault due to an unknown issue.
+[03:48:59] [Server thread/INFO]: .Spbstrome17 issued server command: /papi ecloud download players
+[03:49:02] [Server thread/INFO]: .Spbstrome17 issued server command: /papi ecloud download player
+[03:49:02] [placeholderapi-io-#3/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:49:07] [Server thread/INFO]: .Spbstrome17 issued server command: /papi reload
+[03:49:07] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[03:49:07] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:49:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[03:49:07] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion vault due to an unknown issue.
+[03:49:45] [localSession-7-2/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client disconnected
+[03:49:45] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[03:49:45] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[03:51:05] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:51:09] [Server thread/INFO]: The plugin has been reloaded successfully
+[04:00:38] [Server thread/INFO]: The plugin has been reloaded successfully
+[04:01:45] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Spbstrome17
+[04:01:45] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 (logged in as: Spbstrome17) has connected to the Java server
+[04:01:45] [User Authenticator #1/INFO]: UUID of player .Spbstrome17 is 00000000-0000-0000-0009-01f8b3d19464
+[04:01:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 joined (UUID: 00000000-0000-0000-0009-01f8b3d19464)
+[04:01:45] [Server thread/INFO]: .Spbstrome17[/127.0.0.1:0] logged in with entity id 984 at ([world]-80.85521, 75.0, 111.866234)
+[04:02:23] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user .Spbstrome17 has successfully logged in.
+[04:02:29] [Server thread/INFO]: .Spbstrome17 issued server command: /sb relaod
+[04:02:42] [Server thread/INFO]: The plugin has been reloaded successfully
+[04:06:38] [Server thread/INFO]: The plugin has been reloaded successfully
+[04:07:08] [Server thread/INFO]: The plugin has been reloaded successfully
+[04:07:29] [Server thread/INFO]: The plugin has been reloaded successfully
+[04:07:53] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Spbstrome17 disconnected
+[04:07:53] [localSession-7-3/INFO]: [Geyser-Spigot] Spbstrome17 has disconnected from the Java server because of Bedrock client disconnected
+[04:07:53] [Server thread/INFO]: .Spbstrome17 lost connection: Disconnected
+[04:08:02] [Server thread/INFO]: Stopping the server
+[04:08:02] [Server thread/INFO]: Stopping server
+[04:08:02] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.0
+[04:08:02] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.18
+[04:08:02] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[04:08:02] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
+[04:08:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[04:08:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[04:08:02] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[04:08:02] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[04:08:02] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[04:08:02] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[04:08:02] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[04:08:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[04:08:02] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[04:08:02] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:08:02] [Server thread/INFO]: Saving players
+[04:08:02] [Server thread/INFO]: Saving worlds
+[04:08:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:08:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:08:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:08:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:08:02] [WebSocketConnectReadThread-81/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Saved 1646 block chunks, 163 entity chunks, 0 poi chunks in world 'world' in 0.85s
+[04:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:08:03] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[04:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:08:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:08:03] [Server thread/INFO]: Flushing Chunk IO
+[04:08:03] [Server thread/INFO]: Closing Thread Pool
+[04:08:03] [Server thread/INFO]: Closing Server
